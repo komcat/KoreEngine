@@ -1,0 +1,19 @@
+{
+  "Connections": [
+    {
+      "Name": "Left",
+      "IPAddress": "192.168.0.10",
+      "Port": 50000
+    },
+    {
+      "Name": "Bottom",
+      "IPAddress": "192.168.0.20",
+      "Port": 50000
+    },
+    {
+      "Name": "Right",
+      "IPAddress": "192.168.0.30",
+      "Port": 50000
+    }
+  ]
+}

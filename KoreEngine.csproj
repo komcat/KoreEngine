@@ -138,7 +138,7 @@
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
-    <ProjectReference Include="..\..\acs_solution_saa\liveChartForm\liveChartForm.csproj">
+    <ProjectReference Include="..\acs_solution_saa\liveChartForm\liveChartForm.csproj">
       <Project>{5bccf364-2ec5-4c50-a28b-ac6c34d87619}</Project>
       <Name>liveChartForm</Name>
     </ProjectReference>
